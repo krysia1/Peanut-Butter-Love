@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Peanut-Butter-Love/static/css/main.0de74216.chunk.css",
+    "main.js": "/Peanut-Butter-Love/static/js/main.f92c72fc.chunk.js",
+    "main.js.map": "/Peanut-Butter-Love/static/js/main.f92c72fc.chunk.js.map",
+    "runtime-main.js": "/Peanut-Butter-Love/static/js/runtime-main.fab6b135.js",
+    "runtime-main.js.map": "/Peanut-Butter-Love/static/js/runtime-main.fab6b135.js.map",
+    "static/js/2.ca48a5d1.chunk.js": "/Peanut-Butter-Love/static/js/2.ca48a5d1.chunk.js",
+    "static/js/2.ca48a5d1.chunk.js.map": "/Peanut-Butter-Love/static/js/2.ca48a5d1.chunk.js.map",
+    "index.html": "/Peanut-Butter-Love/index.html",
+    "precache-manifest.a3a9ab6639df4f16439744496bc76b03.js": "/Peanut-Butter-Love/precache-manifest.a3a9ab6639df4f16439744496bc76b03.js",
+    "service-worker.js": "/Peanut-Butter-Love/service-worker.js",
+    "static/css/main.0de74216.chunk.css.map": "/Peanut-Butter-Love/static/css/main.0de74216.chunk.css.map",
+    "static/js/2.ca48a5d1.chunk.js.LICENSE.txt": "/Peanut-Butter-Love/static/js/2.ca48a5d1.chunk.js.LICENSE.txt",
+    "static/media/DogEatingPB.jpeg": "/Peanut-Butter-Love/static/media/DogEatingPB.7aae589d.jpeg",
+    "static/media/Factory.jpg": "/Peanut-Butter-Love/static/media/Factory.c0e9fb94.jpg",
+    "static/media/PB&J.jpg": "/Peanut-Butter-Love/static/media/PB&J.f845a85b.jpg",
+    "static/media/PBLlogoWhite.svg": "/Peanut-Butter-Love/static/media/PBLlogoWhite.bd39c983.svg",
+    "static/media/PBinJar.jpg": "/Peanut-Butter-Love/static/media/PBinJar.0115b31b.jpg",
+    "static/media/App.css": "/Peanut-Butter-Love/static/media/PBwithSpoon.bf2272aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fab6b135.js",
+    "static/js/2.ca48a5d1.chunk.js",
+    "static/css/main.0de74216.chunk.css",
+    "static/js/main.f92c72fc.chunk.js"
+  ]
+}
