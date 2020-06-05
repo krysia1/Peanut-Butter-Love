@@ -1,0 +1,43 @@
+.header {
+  height: 50vh;
+  background-image: linear-gradient(to right bottom, $color-brown-light, $color-pink), url(img/PBwithSpoon.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 40vh);
+}
+
+.title-container {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.heading-primary {
+  color: $color-white;
+  text-transform: uppercase;
+}
+
+#heading-primary--main {
+  display: block;
+  font-size: 6rem;
+  font-weight: 700;
+  letter-spacing: 3.5rem;
+  margin-bottom: 1rem;
+  white-space: nowrap;
+}
+
+#heading-primary--sub {
+  display: block;
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 1.7rem;
+}
+
+.logo {
+  height: 6vh;
+  margin: 2rem;
+  opacity: 0.5;
+}

@@ -1,0 +1,28 @@
+.main-container {
+  width: 100%;
+  height: 100%;
+}
+
+.section-about {
+  background-color: $color-white;
+  padding: 3rem 8rem;
+}
+
+
+.photo {
+  width: 70%;
+}
+
+#factory {
+  margin-top: 5rem;
+}
+
+#sandwich {
+  margin-top: 3rem;
+}
+
+.photo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

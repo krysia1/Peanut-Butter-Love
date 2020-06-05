@@ -1,0 +1,30 @@
+form{
+padding: 2rem;
+}
+
+label{
+  font-size: 1.75rem;
+  font-weight: 400;
+  margin: 5px;
+}
+
+input{
+  height:3rem;
+  font-size: 1.75rem;
+  color: $color-brown-dark;
+  margin: 5px;
+}
+
+#input-name{
+  margin-left: 1rem;
+}
+
+#input-age{
+  margin-left: 3px;
+}
+
+#btn-submit{
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 1rem;
+}
