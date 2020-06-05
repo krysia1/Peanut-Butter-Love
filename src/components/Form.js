@@ -18,6 +18,10 @@ class Form extends Component {
     this.setState({ selectedGender: e.target.value })
   }
 
+  handleSubmit = (e) => {
+    e.preventDefault();
+  }
+
 
   render() {
     return (
